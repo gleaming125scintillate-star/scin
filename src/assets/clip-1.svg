@@ -1,0 +1,12 @@
+<svg preserveAspectRatio="none" viewBox="0 0 282 282" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                    <mask id="path-1-inside-1_250_970" fill="white">
+                                                    <path d="M282 141C282 218.872 218.872 282 141 282C63.1279 282 0 218.872 0 141C0 63.1279 63.1279 0 141 0C218.872 0 282 63.1279 282 141ZM48.4922 141C48.4922 192.091 89.9093 233.508 141 233.508C192.091 233.508 233.508 192.091 233.508 141C233.508 89.9093 192.091 48.4922 141 48.4922C89.9093 48.4922 48.4922 89.9093 48.4922 141Z"></path>
+                                                    </mask>
+                                                    <path d="M282 141C282 218.872 218.872 282 141 282C63.1279 282 0 218.872 0 141C0 63.1279 63.1279 0 141 0C218.872 0 282 63.1279 282 141ZM48.4922 141C48.4922 192.091 89.9093 233.508 141 233.508C192.091 233.508 233.508 192.091 233.508 141C233.508 89.9093 192.091 48.4922 141 48.4922C89.9093 48.4922 48.4922 89.9093 48.4922 141Z" fill="#FD3F00" stroke="url(#paint0_linear_250_970)" stroke-opacity="0.72" stroke-width="2" mask="url(#path-1-inside-1_250_970)"></path>
+                                                    <defs>
+                                                    <linearGradient id="paint0_linear_250_970" x1="141" y1="0" x2="141" y2="282" gradientUnits="userSpaceOnUse">
+                                                    <stop stop-color="white"></stop>
+                                                    <stop offset="0.307692" stop-color="white" stop-opacity="0"></stop>
+                                                    </linearGradient>
+                                                    </defs>
+                                                </svg>
