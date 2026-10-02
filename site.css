@@ -81,7 +81,7 @@ h4{
 
 }
 .hero{
-    background-image: url(../src/assets/Shape-1.png);
+    background-image: url(src/assets/Shape-1.png);
     background-size: cover;
     background-position: 50% 50%;
     
@@ -182,7 +182,7 @@ header{
 
 .pods1{
     width: 33% !important;
-    background-image:url(../src/assets/2765.jpg) !important;
+    background-image:url(src/assets/2765.jpg) !important;
     background-size: cover !important;
     height: 380px !important;
     border-radius: 20px !important;
@@ -192,7 +192,7 @@ header{
 }
 .pods2{
     width: 33% !important;
-    background-image:url(../src/assets/2765.jpg) !important;
+    background-image:url(src/assets/2765.jpg) !important;
     background-size: cover !important;
     position: relative;
     overflow: hidden;
@@ -200,7 +200,7 @@ header{
 
 }.pods3{
     width: 33% !important;
-    background-image:url(../src/assets/2765.jpg) !important;
+    background-image:url(src/assets/2765.jpg) !important;
     background-size: cover !important;
     position: relative;
     overflow: hidden;
@@ -409,7 +409,7 @@ transition: 2s !important;
     text-shadow: 2px 2px #5b4f4f;
 }
 .road{
-    background-image: url(../src/assets/Road.png);
+    background-image: url(src/assets/Road.png);
     background-size: cover;
     height: 460px;
     width: 100%;
@@ -435,7 +435,7 @@ transition: 2s !important;
     
 }
 .movingCar::before {
-    background-image: url(../src/assets/Wheel.png);
+    background-image: url(src/assets/Wheel.png);
     content: "";
     position: absolute;
     width: 50px !important;
@@ -446,7 +446,7 @@ transition: 2s !important;
     animation:  spinTyre 2400ms linear infinite;
 }
 .movingCar::after {
-    background-image: url(../src/assets/Wheel.png);
+    background-image: url(src/assets/Wheel.png);
     content: "";
     position: absolute;
     width: 50px !important;
@@ -483,7 +483,7 @@ transition: 2s !important;
 }
 }
 .traffic-poll {
-    background-image: url(../src/assets/Traffic\ poll\ without\ lignts\ \(1\).png);
+    background-image: url(src/assets/Traffic\ poll\ without\ lignts\ \(1\).png);
     background-size: contain;
     width: 120px !important;
     height: 370px;
@@ -544,7 +544,7 @@ transition: 2s !important;
 }
 
 .text-media {
-    background-image: url(../src/assets/bar\ img.png);
+    background-image: url(src/assets/bar\ img.png);
     background-size: 940px;
     background-attachment: fixed;
     height: 550px;
@@ -615,7 +615,7 @@ display: none;
 background-size: contain;
 }
 .light-row{
-        background-image: url(../src/assets/LIGHT.png);
+        background-image: url(src/assets/LIGHT.png);
     background-size: contain;
      position: absolute;
     content: '';
@@ -673,7 +673,7 @@ position: relative;
 .hero::after {
     position: absolute;
     content: '';
-    background-image: url(../src/assets/beer-bottle-white-background.png);
+    background-image: url(src/assets/beer-bottle-white-background.png);
     background-size: contain;
     width: 220px !important;
     height: 240px;
@@ -805,7 +805,7 @@ position: relative;
 .beer-row .beer2::before {
     position: absolute;
     content: '';
-    background-image: url(../src/assets/6428147_3312906.jpg);
+    background-image: url(src/assets/6428147_3312906.jpg);
     width: 300px;
     height: 300px;
     border-radius: 20px;
@@ -829,7 +829,7 @@ width: 50%;
 
 .info-col2{
     
-    background-image: url(../src/assets/2341.jpg);
+    background-image: url(src/assets/2341.jpg);
     background-size: cover;
     background-position:50% 50% ;
     background-repeat: no-repeat;
@@ -855,7 +855,7 @@ width: 50%;
     color: var(--color_3);
   }
 .info-f1{
-    background-image: url(../src/assets/2341.jpg);
+    background-image: url(src/assets/2341.jpg);
      width: 50% !important;
      height: 360px !important;
 }
@@ -972,7 +972,7 @@ background-color: var(--color_3);
     width: 50%;
 }
 .gren-bg {
-    background-image: url(../src/assets/6814.jpg);
+    background-image: url(src/assets/6814.jpg);
     background-size: cover;
     position: absolute;
     height: 100%;
@@ -985,7 +985,7 @@ background-color: var(--color_3);
     z-index: 1;
 }
 .white-bg {
-    background-image: url(../src/assets/2147876719.jpg);
+    background-image: url(src/assets/2147876719.jpg);
     background-size: cover;
     position: absolute;
     height: 100%;
@@ -1052,7 +1052,7 @@ transition: 2s !important;
     text-shadow: 2px 3px #a7a7a7;
 }
 .text-1::before {
-    background-image: url(../src/assets/Logo-Line.png);
+    background-image: url(src/assets/Logo-Line.png);
     position: absolute;
     width: 40%;
     height: 100px;
@@ -1078,7 +1078,7 @@ linear alternate infinite;
     z-index: 1;
 }
 .team-1 {
-    background-image: url(../src/assets/Prany.png);
+    background-image: url(src/assets/Prany.png);
     width: 100% !important;
     height: 350px !important;
     position: relative;
@@ -1090,7 +1090,7 @@ linear alternate infinite;
     background-position: 55% 50%;
 }
 .team-2 {
-    background-image: url(../src/assets/vinay.jpg);
+    background-image: url(src/assets/vinay.jpg);
     width: 100% !important;
     height: 350px !important;
     position: relative;
@@ -1102,7 +1102,7 @@ linear alternate infinite;
     background-position: 40% 20%;
 }
 .team-3 {
-    background-image: url(../src/assets/Ajay.png);
+    background-image: url(src/assets/Ajay.png);
     width: 100% !important;
     height: 350px !important;
     position: relative;
@@ -1114,7 +1114,7 @@ linear alternate infinite;
     background-position: 50% 36% !important;
 }
 .team-4{
-    background-image: url(../src/assets/Ramu.png);
+    background-image: url(src/assets/Ramu.png);
     width: 100% !important;
     height: 350px !important;
     position: relative;
@@ -1141,7 +1141,7 @@ linear alternate infinite;
     transform: rotate(180deg);
     left: 0;
     bottom: -43%;
-    background-image: url(../src/assets/Circle.png);
+    background-image: url(src/assets/Circle.png);
     background-repeat: no-repeat;
     opacity: 0;
     transition: 0.5s;
@@ -1209,7 +1209,7 @@ color: #fff !important;
 
 .usps-1{
     width: 33% !important;
-    background-image:url(../src/assets/2765.jpg) !important;
+    background-image:url(src/assets/2765.jpg) !important;
     background-size: cover !important;
     height: 380px !important;
     border-radius: 20px !important;
@@ -1219,7 +1219,7 @@ color: #fff !important;
 }
 .usps-2{
     width: 33% !important;
-    background-image:url(../src/assets/2765.jpg) !important;
+    background-image:url(src/assets/2765.jpg) !important;
     background-size: cover !important;
     position: relative;
     overflow: hidden;
@@ -1227,7 +1227,7 @@ color: #fff !important;
 
 }.usps-3{
     width: 33% !important;
-    background-image:url(../src/assets/2765.jpg) !important;
+    background-image:url(src/assets/2765.jpg) !important;
     background-size: cover !important;
     position: relative;
     overflow: hidden;
@@ -1431,7 +1431,7 @@ transition: 1s !important;
     width: 100%;
     top: 0;
     right: 0;
-    background-image: url(../src/assets/Shape-b\ \(1\).png);
+    background-image: url(src/assets/Shape-b\ \(1\).png);
     background-position: 100% 0%;
     background-size: contain;
     background-repeat: no-repeat;
@@ -1445,7 +1445,7 @@ transition: 1s !important;
     width: 100%;
     bottom: 0;
     left: 0;
-    background-image: url(../src/assets/Shape-b.png);
+    background-image: url(src/assets/Shape-b.png);
     background-position: 0 100%;
     background-size: contain;
     background-repeat: no-repeat;
@@ -1459,7 +1459,7 @@ transition: 1s !important;
     width: 100%;
     bottom: 0;
     left: 0;
-    background-image: url(../src/assets/Shape-b.png);
+    background-image: url(src/assets/Shape-b.png);
     background-position: 0 100%;
     background-size: contain;
     background-repeat: no-repeat;
@@ -1473,7 +1473,7 @@ transition: 1s !important;
     width: 100%;
     top: 0;
     right: 0;
-    background-image: url(../src/assets/Shape-b\ \(1\).png);
+    background-image: url(src/assets/Shape-b\ \(1\).png);
     background-position: 100% 0%;
     background-size: contain;
     background-repeat: no-repeat;
@@ -1488,7 +1488,7 @@ transition: 1s !important;
     right: -30px !important;
     top: -30px !important;
     border-radius: 50% !important;
-    background-image: url(../src/assets/pranav2-ddbcd90e-38af7743-2880w.png);
+    background-image: url(src/assets/pranav2-ddbcd90e-38af7743-2880w.png);
 }
 
 .cta{
@@ -1512,7 +1512,7 @@ transition: 1s !important;
 
 .cta-2{
     width: 65% !important;
-    background-image: url(../src/assets/2765.jpg);
+    background-image: url(src/assets/2765.jpg);
     height: 600px !important;
     background-size: cover;
 }
@@ -1635,7 +1635,7 @@ footer{
     height: 50px;
     left: calc(50% - 25px);
     bottom: 50px; 
-    background-image: url(../src/assets/Shoka\ Chakra.png);
+    background-image: url(src/assets/Shoka\ Chakra.png);
     background-size: contain;
 
 }
@@ -1646,7 +1646,7 @@ footer{
     height: 460px;
     left: calc(50% - 385px);
     top: 0px;
-    background-image: url(../src/assets/flag.png);
+    background-image: url(src/assets/flag.png);
     background-size: contain;
     background-repeat: no-repeat;
     animation: flag-0001 2s linear alternate;
